@@ -1,0 +1,18 @@
+body {margin:0;background-color:#1e1a1a}
+h1 { color: #fefce5; font-size:20px; margin-left:10px;font-family: 'Slabo 27px', serif;}
+p {color:#fefce5; margin-left:10px;font-size:15px;font-family: 'Slabo 27px', serif;}
+.header{width:100%;background-image:url('../img/header.png');height:60px;margin-top:-10px;position:relative;}
+.genel{float:none;margin-left:auto;margin-right:auto;width:960px;margin-top:-10px;z-index:3;background-image:url('../img/bg.png');padding:10px;color:white;background-repeat:repeat-y;height:auto;}
+.ribbon{margin-right:auto;margin-left:auto;width:1068px;height:99px;background-image:url('../img/ribbon.png');background-repeat:no-repeat;margin-left:-54px;margin-top:30px}
+form {font-size:18px;color:#fefce5;font-family: 'Slabo 27px', serif;}
+table {font-size:18px;color:#fefce5; font-family: 'Slabo 27px', serif;}
+.logo{background-image:url('../img/logo.png');width:197px;height:200px;margin-left:auto;margin-right:auto;margin-top:-120px}   
+.genelalt{background-image:url('../img/alt.jpg');width:1206px;height:283px;float:left;margin-left:-123px}
+.menu{margin-top:70px;position:absolute;font-family: 'Slabo 27px', serif;margin-left:20px;font-size:15px;margin-right:20px;}
+.menu a{text-decoration:none;color:#fefce5}
+.menu ul li{position:relative;list-style-type:none;float:left;margin-right:10px;padding-right:5px}
+.menu ul li ul{text-align:center;height:auto;background-color:#1e1a1a;display:None;border-top-left-radius:0.5em;border-top-right-radius:0.5em;border-bottom-left-radius:0.5em;border-bottom-right-radius:0.5em}
+.menu ul li ul li{margin:0;left:-20px;float:none;margin-bottom:10px}
+
+.menu ul li:hover ul{display:block;left:-10px;position:relative;margin-top:10px;}
+
